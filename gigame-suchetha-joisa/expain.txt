@@ -1,0 +1,41 @@
+Day-2 ***********************************
+ES1 , ES2 , ES3 
+ES5 ===> ECMA Script 5
+    2009 
+
+ES6 ===> 
+    2015 (React* , Angular.io , Vue)
+
+    # var, let, cost 
+
+        # var :: is a function scoped variable
+        # var :: initialized same variable again and again
+        # var :: value can be change
+
+        # let :: block scoped variable
+        # let :: initialized same variable again and again is restricted in same block
+        # let :: value can be change
+
+        # const :: block scoped variable
+        # const :: value can't be change
+
+    # destructing
+        # extract the data from bunch
+            object = set of values
+
+    # javascript object ==> collection of key value pair
+        key => are user defined
+        student = {
+            name:"Deepakkumar",
+            age:31
+        }
+
+    # spread operator's  (...)
+        
+
+# class
+# rest params
+# generators
+
+
+# async await (call api) i.e data from servers

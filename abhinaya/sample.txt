@@ -1,0 +1,19 @@
+Javascript :: Programming Language (Browser or Without a Browser)
+Run Interpreter Programming Language
+ES5 & ES6
+ES5 ==> ES6
+    CReate Variable
+         var ==> string, number, boolean
+         let ==> string, number, boolean
+         const ==> string, number, boolean
+    if() else(){}
+    switch
+    loops
+        for , while do while
+    array
+    string
+    data
+    math
+    function
+        5 type
+    
