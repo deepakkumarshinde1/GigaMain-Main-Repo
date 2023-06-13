@@ -1,0 +1,16 @@
+Node JS ==> Runtime environment for Javascript
+Node JS ca  a js code without browser
+Node JS + Javascript ==> Mobile , Desktop, Server , ML Application , FrontEnd Application ,
+Web Application 
+
+In react node will work for/as development Server
+
+Dev ===> product (we don't need node js)
+
+// install a react app 
+    npx create-react-app app-name
+    npx ==> node package executor
+        download ==> create-react-app package 
+        run => create-react-app and create our project
+        remove ==> create-react-app
+// deploy react-app on netlify
